@@ -8,6 +8,24 @@
       "promotionPhoto": "https://lh3.googleusercontent.com/6QWOF2_me4R9XntmhQeFQPLhZdqBRfCyu8eeTnKY1pGLpq7WQvjlruB7oxeCKdFrv8I=h900-rw",
       "promotionLink": "https://play.google.com/store/apps/details?id=chargerbooster.charger.faster.booster",
       "packageName": "chargerbooster.charger.faster.booster"
+    },
+     {
+      "appName": "Fast Charging",
+      "pubName": "MOBILITY STUDIO",
+      "icon": "https://lh3.googleusercontent.com/lyB5pOd76UAADU7LmZq5-sUsyeZvyX8qFCwrB5flNxSAJz7nr2GNs-XyfkqMyTvmwkA=w300-rw",
+      "description": "Fast Charging is an ultimate tool, which can boost your battery charging speed by 20-40%. This app will automatically activate when you connect your charger and it will boost your charging speed.",
+      "promotionPhoto": "https://lh3.googleusercontent.com/6QWOF2_me4R9XntmhQeFQPLhZdqBRfCyu8eeTnKY1pGLpq7WQvjlruB7oxeCKdFrv8I=h900-rw",
+      "promotionLink": "https://play.google.com/store/apps/details?id=chargerbooster.charger.faster.booster",
+      "packageName": "ct.PhotoFrameGird.pretty.frames"
+    } ,
+     {
+      "appName": "App locker Master (lock app)",
+      "pubName": "MOBILITY STUDIO",
+      "icon": "https://lh4.ggpht.com/MOIQLv3UF9IDpORcjQPrG1rpd1H-D8SscJpxjoQeiyW1eaCMIkVwHDmzd8sxbrPCLVnc=w300-rw",
+      "description": "Lock SMS, Contacts, Gmail, Facebook, Twitter, Messenger and lock any private apps., Lock apps content your important data like Gallery, Files Manager, Calendar..., Lock the Setting, Android system, Install/Uninstall apps, Google Play Store, Phone and anything apps you choose to protect.",
+      "promotionPhoto": "https://lh5.ggpht.com/E14Y_7uxHpbMnCYTBKOoqXE3V-81JNj_ZjVbsIjp8tOJ4S6jXfGnsalcydUPP8ivHg=h900-rw",
+      "promotionLink": "https://play.google.com/store/apps/details?id=mobility.studio.applocker.master",
+      "packageName": "mobility.studio.applocker.master"
     } 
   ]
 }
