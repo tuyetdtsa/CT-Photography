@@ -17,6 +17,15 @@
       "promotionPhoto": "https://lh3.googleusercontent.com/YJvVsWpMey5D-_2HipCYtxjgtuy1p4A2Uvig5S3iRYqIXfHTjNQzxqnmCAxs4KSWSDU=h900-rw",
       "promotionLink": "https://play.google.com/store/apps/details?id=bs.photoFrame.photoGird.Christmas",
       "packageName": "bs.photoFrame.photoGird.Christmas"
+    },
+    {
+      "appName": "Photo Editor",
+      "pubName": "Blue Sky Studio",
+      "icon": "https://lh3.googleusercontent.com/pMyo4zO8sBpi972HcQrxdirbLUtowS1C2Ut_Kw3v5s9ECwEIQAqH99qZDiYLlNTJ9BI=w300-rw",
+      "description": "Photo Editor is a powerful collage maker and photo grid with many amazing effects and filters. Photo editor provide you a great collage maker tool to create photo grid and collage layout.",
+      "promotionPhoto": "https://lh3.googleusercontent.com/G-mv9f4D7YPqousaG-Szl8EfTbvnaJ5wKRrTOyux7nDc8uD3fmn0zClsoSntznPhGE4=h900-rw",
+      "promotionLink": "https://play.google.com/store/apps/details?id=photoEditor.collageEditor.frameGrid",
+      "packageName": "photoEditor.collageEditor.frameGrid"
     }
   ]
 }
