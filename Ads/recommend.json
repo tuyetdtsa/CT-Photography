@@ -8,7 +8,21 @@
       "link": "https://play.google.com/store/apps/details?id=wifihotspot.tethering.wifi.hotspot",
       "description": "Wifi Hotspot Tethering will allow your mobile share network to computer, laptop, tablet, smartphone or any device is support wifi connection.",
       "category": "Productivity",
-      "adsType": "0"
+      "adsType": "0",
+      "position": "On top tab 1",
+      "feature": "https://lh3.googleusercontent.com/5yG5eoPtVm6-eaOctEViba3GrVSD4y101Ua01LP3wBNKavfmDBeS85a0afewMqPmyQ=h900-rw"
+    },
+    {
+      "icon": "https://lh3.googleusercontent.com/FIIxXSACYJFGTmIJ2HDl4LLYHwpw0F8igdvvjX_MWe4W3HzC8g34B85z0o26020P_EA=w300-rw",
+      "name": "Wifi Hotspot Tethering",
+      "packageName": "wifihotspot.tethering.wifi.hotspot",
+      "appId": "",
+      "link": "https://play.google.com/store/apps/details?id=wifihotspot.tethering.wifi.hotspot",
+      "description": "Wifi Hotspot Tethering will allow your mobile share network to computer, laptop, tablet, smartphone or any device is support wifi connection.",
+      "category": "Productivity",
+      "adsType": "0",
+      "position": "On tab optimize",
+      "feature": "https://lh3.googleusercontent.com/5yG5eoPtVm6-eaOctEViba3GrVSD4y101Ua01LP3wBNKavfmDBeS85a0afewMqPmyQ=h900-rw"
     }
   ]
 }
