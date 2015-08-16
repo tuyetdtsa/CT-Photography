@@ -26,7 +26,7 @@
     }
   ],
   "adSetting": {
-  	"adModBannerType1":"1",
+  	"adModBannerType1":"0",
   	"adModInterstitial1": "1"
   }
 }
