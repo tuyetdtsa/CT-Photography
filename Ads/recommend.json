@@ -24,5 +24,9 @@
       "position": "On tab optimize",
       "feature": "https://lh3.googleusercontent.com/5yG5eoPtVm6-eaOctEViba3GrVSD4y101Ua01LP3wBNKavfmDBeS85a0afewMqPmyQ=h900-rw"
     }
-  ]
+  ],
+  "adSetting": {
+  	"adModBannerType1":"1",
+  	"adModInterstitial1": "1"
+  }
 }
