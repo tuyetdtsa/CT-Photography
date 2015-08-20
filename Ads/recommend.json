@@ -9,20 +9,20 @@
       "description": "Wifi Hotspot Tethering will allow your mobile share network to computer, laptop, tablet, smartphone or any device is support wifi connection.",
       "category": "Productivity",
       "adsType": "0",
-      "position": "On top tab 1",
+      "position": "On top 1",
       "feature": "https://lh3.googleusercontent.com/5yG5eoPtVm6-eaOctEViba3GrVSD4y101Ua01LP3wBNKavfmDBeS85a0afewMqPmyQ=h900-rw"
     },
     {
-      "icon": "https://lh3.googleusercontent.com/FIIxXSACYJFGTmIJ2HDl4LLYHwpw0F8igdvvjX_MWe4W3HzC8g34B85z0o26020P_EA=w300-rw",
-      "name": "Wifi Hotspot Tethering",
-      "packageName": "wifihotspot.tethering.wifi.hotspot",
+      "icon": "https://lh3.googleusercontent.com/9mq55H9wfmhyoqrz-FOW1bYBa_ib48xYsSgzD4CMiuOHiTI-AsCvyY0wdcJZvfDC7w=w300-rw",
+      "name": "Fast Charger Battery",
+      "packageName": "com.fastcharger.fastchargerbatery.quickcharge",
       "appId": "",
-      "link": "https://play.google.com/store/apps/details?id=wifihotspot.tethering.wifi.hotspot",
-      "description": "Wifi Hotspot Tethering will allow your mobile share network to computer, laptop, tablet, smartphone or any device is support wifi connection.",
-      "category": "Productivity",
+      "link": "https://play.google.com/store/apps/details?id=com.fastcharger.fastchargerbatery.quickcharge",
+      "description": "Fast Charger Battery is a free app, can boost your battery charge speed by 20-40%",
+      "category": "Tools",
       "adsType": "0",
       "position": "On tab optimize",
-      "feature": "https://lh3.googleusercontent.com/5yG5eoPtVm6-eaOctEViba3GrVSD4y101Ua01LP3wBNKavfmDBeS85a0afewMqPmyQ=h900-rw"
+      "feature": "https://lh3.googleusercontent.com/9rK8xGCInsm9MaV_DohV19PTl5jMHfR6_aQDfON1i8AM0hiju5GySdTJKJe7pKOnBi4=h900-rw"
     }
   ],
   "adSetting": {
