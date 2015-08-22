@@ -9,7 +9,7 @@
       "description": "Wifi Hotspot Tethering will allow your mobile share network to computer, laptop, tablet, smartphone or any device is support wifi connection.",
       "category": "Productivity",
       "adsType": "0",
-      "position": "On top tab 1",
+      "position": "Top more app: Fast_Charger_Battery, Battery_Optimize",
       "feature": "https://lh3.googleusercontent.com/5yG5eoPtVm6-eaOctEViba3GrVSD4y101Ua01LP3wBNKavfmDBeS85a0afewMqPmyQ=h900-rw"
     },
     {
@@ -21,7 +21,7 @@
       "description": "Wifi Hotspot Tethering will allow your mobile share network to computer, laptop, tablet, smartphone or any device is support wifi connection.",
       "category": "Productivity",
       "adsType": "0",
-      "position": "On tab optimize",
+      "position": "Large Banner: Home Fast_Charger_Battery, Home Battery_Optimize",
       "feature": "https://lh3.googleusercontent.com/5yG5eoPtVm6-eaOctEViba3GrVSD4y101Ua01LP3wBNKavfmDBeS85a0afewMqPmyQ=h900-rw"
     },
     {
@@ -33,12 +33,13 @@
       "description": "Fast Charger Battery is a free app, can boost your battery charge speed by 20-40%",
       "category": "Tools",
       "adsType": "0",
-      "position": "On tab optimize",
+      "position": "Large Banner: Saving screen Battery_Optimize",
       "feature": "https://lh3.googleusercontent.com/9rK8xGCInsm9MaV_DohV19PTl5jMHfR6_aQDfON1i8AM0hiju5GySdTJKJe7pKOnBi4=h900-rw"
     }
   ],
   "adSetting": {
   	"adModBannerType1":"0",
-  	"adModInterstitial1": "1"
+  	"adModInterstitial1": "1",
+  	"adModBannerOnHomeBatteryOptimize":"1"
   }
 }
