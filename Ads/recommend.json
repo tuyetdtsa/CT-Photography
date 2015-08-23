@@ -40,6 +40,6 @@
   "adSetting": {
   	"adModBannerType1":"0",
   	"adModInterstitial1": "1",
-  	"adModBannerOnHomeBatteryOptimize":"1"
+  	"adMobBannerOnHomeBatteryOptimize":"1"
   }
 }
