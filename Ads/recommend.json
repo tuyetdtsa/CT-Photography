@@ -9,7 +9,7 @@
       "description": "Wifi Hotspot Tethering will allow your mobile share network to computer, laptop, tablet, smartphone or any device is support wifi connection.",
       "category": "Productivity",
       "adsType": "0",
-      "position": "Top more app: Fast_Charger_Battery, Battery_Optimize",
+      "position": "Top more app: Fast_Charger_Battery, Battery_Optimize; Menu app: Battery_Save_Mode, Battery_Top_app",
       "feature": "https://lh3.googleusercontent.com/5yG5eoPtVm6-eaOctEViba3GrVSD4y101Ua01LP3wBNKavfmDBeS85a0afewMqPmyQ=h900-rw"
     },
     {
@@ -21,7 +21,7 @@
       "description": "Wifi Hotspot Tethering will allow your mobile share network to computer, laptop, tablet, smartphone or any device is support wifi connection.",
       "category": "Productivity",
       "adsType": "0",
-      "position": "Large Banner: Home Fast_Charger_Battery, Home Battery_Optimize",
+      "position": "Large Banner: Home Fast_Charger_Battery, Home Battery_Optimize; Top more app: Tab 1 - Battery_Top_app",
       "feature": "https://lh3.googleusercontent.com/5yG5eoPtVm6-eaOctEViba3GrVSD4y101Ua01LP3wBNKavfmDBeS85a0afewMqPmyQ=h900-rw"
     },
     {
@@ -35,6 +35,18 @@
       "adsType": "0",
       "position": "Large Banner: Saving screen Battery_Optimize",
       "feature": "https://lh3.googleusercontent.com/9rK8xGCInsm9MaV_DohV19PTl5jMHfR6_aQDfON1i8AM0hiju5GySdTJKJe7pKOnBi4=h900-rw"
+    },
+    {
+      "icon": "https://lh3.googleusercontent.com/uccZnEsS1vNEhQKp8u36aCErTkQWZ-jVZpGS4LyEVLX-hbZSnBJ8CTdhJdOf9wL4oDl1=w300-rw",
+      "name": "Fast Clean/Smart Booster",
+      "packageName": "fastclean.rambooster",
+      "appId": "",
+      "link": "https://play.google.com/store/apps/details?id=fastclean.rambooster",
+      "description": "Fast Clean/Smart RAM Booster optimizes Android CPU, RAM Booster and battery with a single one-tap.",
+      "category": "Tools",
+      "adsType": "0",
+      "position": "Home tab 1 Battery_Top_app",
+      "feature": "https://lh3.googleusercontent.com/HtPFipnTXonbZl5tId6oil6HNOVuwioJ-ldNTE0c2tBT7pSqqTEI_o3a_NqPoDpIONI=h900-rw"
     }
   ],
   "adSetting": {
