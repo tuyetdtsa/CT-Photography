@@ -1,15 +1,7 @@
 {
   "ads": [
-    {
-      "appName": "Photo Editor Pro",
-      "pubName": " CITY PHOTO EDITOR",
-      "icon": "https://lh3.googleusercontent.com/CLlYJxBXU8KWdeX4qQasmX-joTks1nXMGeAqcFazXcTkFNgx0ehjxhR9fI9yif2cMsk=w300-rw",
-      "description": "  Make your photos collection into amazing photo collages and video slideshows.",
-      "promotionPhoto": "http://coverpixs.com/images/items/itm_2013-01-24_19-13-15_10.jpg",
-      "promotionLink": "https://play.google.com/store/apps/details?id=city.photo.editor.grid.collage",
-      "packageName": "city.photo.editor.grid.collage"
-    }
+    
   ],
-  "promotedPackage": "city.photo.editor.grid.collage",
+  "promotedPackage": "pixel.photo.pro.photo.editor",
   "promotedLink": ""
 }
