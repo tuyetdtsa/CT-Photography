@@ -1,5 +1,14 @@
 {
   "ads": [
+  {
+      "appName": "Mountain Photo Frames",
+      "pubName": "PIXEL PHOTO PRO",
+      "icon": "https://lh3.googleusercontent.com/HhGJR3jQECQ_-fMKa8Sgpqv0P6lcCJ7WnZA3_TKAMkIMJpv-yMvu5IIi1Zug2kkANro=w300-rw",
+      "description": "Mountain Photo Frames will help you decorate your photo with awesome mountains, forests, rivers and Pure Nature Themed Photo frames.",
+      "promotionPhoto": "https://lh3.googleusercontent.com/ZBqnUo5-dP2AsofqI33m3g7WEaZnJVle-1Yuc1fngsdGQVWQQuJBN7wIaTvI9CiMpWI=h900-rw",
+      "promotionLink": "https://play.google.com/store/apps/details?id=pixel.Mountain.PhotoFrames",
+      "packageName": "pixel.Mountain.PhotoFrames"
+    },
     {
       "appName": "Photo Editor Pro",
       "pubName": "PIXEL PHOTO PRO",
