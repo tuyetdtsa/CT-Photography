@@ -1,0 +1,57 @@
+{
+  "recommend": [
+    {
+      "icon": "https://lh3.googleusercontent.com/0RZ2wnEgjVCwzTAqfciIgjUiisI8R3e2rD_cwrjGEg-fLsPrQhq2G8yngiGXci1IzQ=w300-rw",
+      "name": "Wifi Automatic – Save Battery",
+      "packageName": "wifi.automatic.save.battery",
+      "appId": "",
+      "link": "https://play.google.com/store/apps/details?id=wifi.automatic.save.battery",
+      "description": "Do you want to save battery and have more time for using? Wi-Fi Automatic auto on/off your Wi-Fi and save battery best...",
+      "category": "Tools",
+      "adsType": "0",
+      "position": "Top more app: Fast_Charger_Battery, Battery_Optimize; Menu app: Battery_Save_Mode, Battery_Top_App",
+      "feature": "https://raw.githubusercontent.com/tuyetdtsa/CT-Photography/master/Ads/Resources/wifiautomatic.png"
+    },
+    {
+      "icon": "https://lh3.googleusercontent.com/zyktv3KVp7oD6ppR_ZPLzdos6lwRJ1XCq6gofUo6ta3VaZhlbAhPdYf1GvRUlAvTc5Y=w300-rw",
+      "name": "Ringing Flashlight",
+      "packageName": "ct.ringingflashlight.call.sms.flashring",
+      "appId": "",
+      "link": "https://play.google.com/store/apps/details?id=ct.ringingflashlight.call.sms.flashring",
+      "description": "Ringing Flashlight is one of the best application help you do not miss any Call and SMS.",
+      "category": "Productivity",
+      "adsType": "0",
+      "position": "Large Banner: Home Fast_Charger_Battery, Home Battery_Optimize; Top more app: Tab 1 - Battery_Top_App",
+      "feature": "https://raw.githubusercontent.com/tuyetdtsa/CT-Photography/master/Ads/CT%20APPS%20STUDIO%20-%20recommend.json/feature.png"
+    },
+    {
+      "icon": "https://lh3.googleusercontent.com/9mq55H9wfmhyoqrz-FOW1bYBa_ib48xYsSgzD4CMiuOHiTI-AsCvyY0wdcJZvfDC7w=w300-rw",
+      "name": "Fast Charger Battery",
+      "packageName": "com.fastcharger.fastchargerbatery.quickcharge",
+      "appId": "",
+      "link": "https://play.google.com/store/apps/details?id=com.fastcharger.fastchargerbatery.quickcharge",
+      "description": "Fast Charger Battery is a free app, can boost your battery charge speed by 20-40%",
+      "category": "Tools",
+      "adsType": "0",
+      "position": "Large Banner: Saving screen Battery_Optimize, Saving screen Battery_Top_App",
+      "feature": "https://lh3.googleusercontent.com/9rK8xGCInsm9MaV_DohV19PTl5jMHfR6_aQDfON1i8AM0hiju5GySdTJKJe7pKOnBi4=h900-rw"
+    },
+    {
+      "icon": "https://lh3.googleusercontent.com/uccZnEsS1vNEhQKp8u36aCErTkQWZ-jVZpGS4LyEVLX-hbZSnBJ8CTdhJdOf9wL4oDl1=w300-rw",
+      "name": "Fast Clean/Smart Booster",
+      "packageName": "fastclean.rambooster",
+      "appId": "",
+      "link": "https://play.google.com/store/apps/details?id=fastclean.rambooster",
+      "description": "Fast Clean/Smart RAM Booster optimizes Android CPU, RAM Booster and battery with a single one-tap.",
+      "category": "Tools",
+      "adsType": "0",
+      "position": "Home tab 1 Battery_Top_App",
+      "feature": "https://lh3.googleusercontent.com/HtPFipnTXonbZl5tId6oil6HNOVuwioJ-ldNTE0c2tBT7pSqqTEI_o3a_NqPoDpIONI=h900-rw"
+    }
+  ],
+  "adSetting": {
+  	"adModBannerType1":"0",
+  	"adModInterstitial1": "1",
+  	"adMobBannerOnHomeBatteryOptimize":"1"
+  }
+}
