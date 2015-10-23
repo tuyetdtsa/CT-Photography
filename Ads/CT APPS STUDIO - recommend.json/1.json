@@ -13,12 +13,12 @@
       "feature": "https://raw.githubusercontent.com/tuyetdtsa/CT-Photography/master/Ads/Resources/wifiautomatic.png"
     },
     {
-      "icon": "https://lh3.googleusercontent.com/zyktv3KVp7oD6ppR_ZPLzdos6lwRJ1XCq6gofUo6ta3VaZhlbAhPdYf1GvRUlAvTc5Y=w300-rw",
-      "name": "Ringing Flashlight",
-      "packageName": "ct.ringingflashlight.call.sms.flashring",
+      "icon": "https://lh3.googleusercontent.com/FIIxXSACYJFGTmIJ2HDl4LLYHwpw0F8igdvvjX_MWe4W3HzC8g34B85z0o26020P_EA=w300-rw",
+      "name": "Wifi Hotspot Tethering",
+      "packageName": "wifihotspot.tethering.wifi.hotspot",
       "appId": "",
-      "link": "https://play.google.com/store/apps/details?id=ct.ringingflashlight.call.sms.flashring",
-      "description": "Ringing Flashlight is one of the best application help you do not miss any Call and SMS.",
+      "link": "https://play.google.com/store/apps/details?id=wifihotspot.tethering.wifi.hotspot",
+      "description": "Wifi Hotspot Tethering will allow your mobile share network to computer, laptop, tablet, smartphone or any device is support wifi connection.",
       "category": "Productivity",
       "adsType": "0",
       "position": "Large Banner: Home Fast_Charger_Battery, Home Battery_Optimize; Top more app: Tab 1 - Battery_Top_App",
