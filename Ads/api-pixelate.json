@@ -1,15 +1,14 @@
 {
   "ads": [
   {
-      "appName": "Mountain Photo Frames",
-      "pubName": "PIXEL PHOTO PRO",
-      "icon": "https://lh3.googleusercontent.com/HhGJR3jQECQ_-fMKa8Sgpqv0P6lcCJ7WnZA3_TKAMkIMJpv-yMvu5IIi1Zug2kkANro=w300-rw",
-      "description": "Mountain Photo Frames will help you decorate your photo with awesome mountains, forests, rivers and Pure Nature Themed Photo frames.",
-      "promotionPhoto": "https://lh3.googleusercontent.com/ZBqnUo5-dP2AsofqI33m3g7WEaZnJVle-1Yuc1fngsdGQVWQQuJBN7wIaTvI9CiMpWI=h900-rw",
-      "promotionLink": "https://play.google.com/store/apps/details?id=pixel.Mountain.PhotoFrames",
-      "packageName": "pixel.Mountain.PhotoFrames"
+      "appName": "Autumn Photo Frames",
+      "pubName": "PIXELATE PIC STUDIO",
+      "icon": "https://lh3.googleusercontent.com/HhGJR3jQECQ_-fMKa8Sgpqv0P6lcCJ7",
+      "description": "Enjoy Autumn Photo Frame by creating beautiful and lovely your photos",
+      "promotionPhoto": "http://coverpixs.com/images/items/itm_2013-02-14_14-51-34_1.jpg",
+      "packageName": "pixelate.Autumn.photo.frames"
     }
   ],
-  "promotedPackage": "pixel.photo.pro.photo.editor",
+  "promotedPackage": "pixelate.Autumn.photo.frames",
   "promotedLink": ""
 }
