@@ -1,13 +1,14 @@
 {
   "ads": [
-  {
+   {
       "appName": "Autumn Photo Frames",
       "pubName": "PIXELATE PIC STUDIO",
       "icon": "https://lh3.googleusercontent.com/zfPCLmyY6YkKtlBd6_1wRsoK7uwFByqn_a-6ykg6GvVmSkBgPS-zZNoeGMOxdfFWXQM=w300-rw",
       "description": "Enjoy Autumn Photo Frame by creating beautiful and lovely your photos",
       "promotionPhoto": "http://coverpixs.com/images/items/itm_2013-02-14_14-51-34_1.jpg",
-      "packageName": "pixelate.Autumn.photo.frames"
-    }
+      "packageName": "pixelate.Autumn.photo.frames",
+      "promotionLink": "https://play.google.com/store/apps/developer?id=PIXELATE%20PIC%20STUDIO"
+    } 
   ],
   "promotedPackage": "pixelate.Autumn.photo.frames",
   "promotedLink": ""
