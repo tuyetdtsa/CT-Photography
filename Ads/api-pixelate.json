@@ -1,5 +1,14 @@
 {
   "ads": [
+  {
+      "appName": "Photo Grid",
+      "pubName": "PIXELATE PICS STUDIO",
+      "icon": "https://lh3.googleusercontent.com/pdL63z20w98lbK_-q5B68sL0pY9nfPdaTNAKY3ZM2IGqSpEaqnz65ZHntc0lqwnVOw=w300-rw",
+      "description": "Photo Grid has automatic Grids of Photos with Moving Borders so that you can stylize Picture Grids the way you want.",
+      "promotionPhoto": "https://raw.githubusercontent.com/tuyetdtsa/CT-Photography/master/Ads/Resources/photogrid.jpg",
+      "packageName": "pixelate.photo.grid.photoGrid.photoEditor",
+      "promotionLink": "https://play.google.com/store/apps/developer?id=PIXELATE+PICS+STUDIO"
+    } ,
    {
       "appName": "Autumn Photo Frames",
       "pubName": "PIXELATE PICS STUDIO",
