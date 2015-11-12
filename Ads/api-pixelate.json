@@ -20,5 +20,6 @@
     } 
   ],
   "promotedPackage": "pixelate.photo.grid.photoGrid.photoEditor",
-  "promotedLink": ""
+  "promotedLink": "",
+  "autoRandom":"1"
 }
