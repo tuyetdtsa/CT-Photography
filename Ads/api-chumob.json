@@ -24,7 +24,7 @@
   "autoRandom":"1",
   
   "homeAd": {
-    "homeAdType":"0",
+    "homeAdType":"1",
     "HomeAdDescription":"0: no load any ad - 1: load 3 apps StartApp - 2: load my 3 custom apps @@@ Default is StartApp (1)",
     "myCustomApps": [
   {
