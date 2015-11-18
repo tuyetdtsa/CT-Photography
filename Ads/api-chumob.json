@@ -21,5 +21,40 @@
   ],
   "promotedPackage": "pixelate.photo.grid.photoGrid.photoEditor",
   "promotedLink": "",
-  "autoRandom":"1"
+  "autoRandom":"1",
+  
+  "homeAd": {
+    "homeAdType":"0",
+    "HomeAdDescription":"0: no load any ad - 1: load 3 apps StartApp - 2: load my 3 custom apps @@@ Default is StartApp (1)",
+    "myCustomApps": [
+  {
+      "appName": "Photo Grid",
+      "pubName": "PIXELATE PICS STUDIO",
+      "icon": "https://lh3.googleusercontent.com/pdL63z20w98lbK_-q5B68sL0pY9nfPdaTNAKY3ZM2IGqSpEaqnz65ZHntc0lqwnVOw=w300-rw",
+      "description": "Photo Grid has automatic Grids of Photos with Moving Borders so that you can stylize Picture Grids the way you want.",
+      "promotionPhoto": "https://raw.githubusercontent.com/tuyetdtsa/CT-Photography/master/Ads/Resources/photogrid.jpg",
+      "packageName": "pixelate.photo.grid.photoGrid.photoEditor",
+      "promotionLink": "https://play.google.com/store/apps/developer?id=PIXELATE+PICS+STUDIO"
+    } ,
+   {
+      "appName": "Autumn Photo Frames",
+      "pubName": "PIXELATE PICS STUDIO",
+      "icon": "https://lh3.googleusercontent.com/zfPCLmyY6YkKtlBd6_1wRsoK7uwFByqn_a-6ykg6GvVmSkBgPS-zZNoeGMOxdfFWXQM=w300-rw",
+      "description": "Enjoy Autumn Photo Frame by creating beautiful and lovely your photos",
+      "promotionPhoto": "https://raw.githubusercontent.com/tuyetdtsa/CT-Photography/master/Ads/Resources/autum.jpg",
+      "packageName": "pixelate.Autumn.photo.frames",
+      "promotionLink": "https://play.google.com/store/apps/developer?id=PIXELATE+PICS+STUDIO"
+    } ,
+   {
+      "appName": "Autumn Photo Frames",
+      "pubName": "PIXELATE PICS STUDIO",
+      "icon": "https://lh3.googleusercontent.com/zfPCLmyY6YkKtlBd6_1wRsoK7uwFByqn_a-6ykg6GvVmSkBgPS-zZNoeGMOxdfFWXQM=w300-rw",
+      "description": "Enjoy Autumn Photo Frame by creating beautiful and lovely your photos",
+      "promotionPhoto": "https://raw.githubusercontent.com/tuyetdtsa/CT-Photography/master/Ads/Resources/autum.jpg",
+      "packageName": "pixelate.Autumn.photo.frames",
+      "promotionLink": "https://play.google.com/store/apps/developer?id=PIXELATE+PICS+STUDIO"
+    } 
+  ]
+  }
+
 }
