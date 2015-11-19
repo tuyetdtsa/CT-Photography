@@ -117,6 +117,12 @@
         "frameCode": "waterfall",
         "icon":"ic_frame_border",
         "size": "18"
+      },
+      {
+        "frameName": "Simply",
+        "frameCode": "basic",
+        "icon":"ic_frame_border",
+        "size": "18"
       }
     ]
   }
