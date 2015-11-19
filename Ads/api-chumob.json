@@ -61,61 +61,61 @@
       {
         "frameName": "Love",
         "frameCode": "love",
-        "icon":"ic_frame",
+        "icon":"ic_frame_border",
         "size": "18"
       },
       {
         "frameName": "Wedding",
         "frameCode": "wedding",
-        "icon":"ic_frame",
+        "icon":"ic_frame_border",
         "size": "18"
       },
       {
         "frameName": "Cute",
         "frameCode": "cute",
-        "icon":"ic_frame",
+        "icon":"ic_frame_border",
         "size": "18"
       },
       {
         "frameName": "Christmas",
         "frameCode": "christmas",
-        "icon":"ic_frame",
+        "icon":"ic_frame_border",
         "size": "18"
       },
       {
         "frameName": "New year",
         "frameCode": "newyear",
-        "icon":"ic_frame",
+        "icon":"ic_frame_border",
         "size": "18"
       },
       {
         "frameName": "Hoarding",
         "frameCode": "hoarding",
-        "icon":"ic_frame",
+        "icon":"ic_frame_border",
         "size": "18"
       },
       {
         "frameName": "Love",
         "frameCode": "love",
-        "icon":"ic_frame",
+        "icon":"ic_frame_border",
         "size": "18"
       },
       {
         "frameName": "Nature",
         "frameCode": "nature",
-        "icon":"ic_frame",
+        "icon":"ic_frame_border",
         "size": "18"
       },
       {
         "frameName": "Flower",
         "frameCode": "flower",
-        "icon":"ic_frame",
+        "icon":"ic_frame_border",
         "size": "18"
       },
       {
         "frameName": "Waterfall",
         "frameCode": "waterfall",
-        "icon":"ic_frame",
+        "icon":"ic_frame_border",
         "size": "18"
       }
     ]
