@@ -59,79 +59,30 @@
     "description": "Default is in code and number of frames for per category is 18",
     "myFrames": [
       {
-        "frameName": "Love",
-        "frameCode": "love",
-        "icon":"ic_frame_border",
-        "ratio":"3:4",
-        "size": "18"
-      },
-      {
-        "frameName": "Wedding",
-        "frameCode": "wedding",
-        "icon":"ic_frame_border",
-        "ratio":"3:4",
-        "size": "18"
-      },
-      {
-        "frameName": "Cute",
-        "frameCode": "cute",
-        "icon":"ic_frame_border",
-        "ratio":"3:4",
-        "size": "18"
-      },
-      {
         "frameName": "Christmas",
         "frameCode": "christmas",
-        "icon":"ic_frame_border",
+        "icon":"ic_sticker_tab_christmas",
         "ratio":"3:4",
         "size": "18"
       },
       {
-        "frameName": "New year",
-        "frameCode": "newyear",
-        "icon":"ic_frame_border",
+        "frameName": "Happy New year",
+        "frameCode": "happynewyear",
+        "icon":"ic_happynewyear",
         "ratio":"3:4",
-        "size": "18"
-      },
-      {
-        "frameName": "Hoarding",
-        "frameCode": "hoarding",
-        "icon":"ic_frame_border",
-        "ratio":"3:4",
-        "size": "18"
-      },
-      {
-        "frameName": "Love",
-        "frameCode": "love",
-        "icon":"ic_frame_border",
-        "ratio":"3:4",
-        "size": "18"
+        "size": "12"
       },
       {
         "frameName": "Nature",
         "frameCode": "nature",
-        "icon":"ic_frame_border",
+        "icon":"ic_natural",
         "ratio":"3:4",
         "size": "18"
       },
       {
         "frameName": "Flower",
         "frameCode": "flower",
-        "icon":"ic_frame_border",
-        "ratio":"3:4",
-        "size": "18"
-      },
-      {
-        "frameName": "Waterfall",
-        "frameCode": "waterfall",
-        "icon":"ic_frame_border",
-        "ratio":"3:4",
-        "size": "18"
-      },
-      {
-        "frameName": "Simply",
-        "frameCode": "basic",
-        "icon":"ic_frame_border",
+        "icon":"ic_sticker_tab_love",
         "ratio":"3:4",
         "size": "18"
       }
