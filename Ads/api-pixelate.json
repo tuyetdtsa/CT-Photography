@@ -1,12 +1,12 @@
 {
   "ads": [
   {
-      "appName": "Photo Grid",
+      "appName": "Garden Photo Frames",
       "pubName": "PIXELATE PICS STUDIO",
-      "icon": "https://lh3.googleusercontent.com/pdL63z20w98lbK_-q5B68sL0pY9nfPdaTNAKY3ZM2IGqSpEaqnz65ZHntc0lqwnVOw=w300-rw",
-      "description": "Photo Grid has automatic Grids of Photos with Moving Borders so that you can stylize Picture Grids the way you want.",
-      "promotionPhoto": "https://raw.githubusercontent.com/tuyetdtsa/CT-Photography/master/Ads/Resources/photogrid.jpg",
-      "packageName": "pixelate.photo.grid.photoGrid.photoEditor",
+      "icon": "https://lh3.googleusercontent.com/43iKV0aUSkzdwOKI1Bg43fi9wAFqFbhnB9A58GSFBAEE_VWn_9p2F-WR7V8NfXkPwpY=s360",
+      "description": "Help you decorate your photo with awesome flower, garden, trees and Pure Nature Themed Photo frames.",
+      "promotionPhoto": "https://lh3.googleusercontent.com/V98_OEjGaXU1AwC8sOnfgRNxdmjGNZsfcC4rYDzsRCkBhD1nHS-xnvUUy5D8lo344w=w1440-h620",
+      "packageName": "pixelate.garden.photo.frames",
       "promotionLink": "https://play.google.com/store/apps/developer?id=PIXELATE+PICS+STUDIO"
     } ,
    {
